@@ -6,19 +6,14 @@ Este conhecimento foi adquirido durante a NLW - Trilha Discover com a instrutora
 
 ---
 
-### Boas práticas de acessibilidade e responsividade
-
-#### O que é responsividade?
-        Um site responsivo é aquele cuja disposição dos elementos e o conteúdo se adaptam de acordo com o tamanho da tela do usuário. 
-        Isso significa que, independentemente do dispositivo que utilizar, o layout daquele website será carregado sem erros,
-        mantendo a facilidade de se encontrar o que deseja, sempre com uma navegação simples e intuitiva.
+### Boas práticas de acessibilidade 
         
 #### O que é acessibilidade na web?
         De acordo com a W3c, a acessibilidade na Web serve como auxílio para sites, ferramentas e tecnologias serem projetados 
         e desenvolvidos para que pessoas com ou sem deficiência possam usar, navegar, interagir e entender o conteúdo, com autonomia.
 
-Sabendo esses conceitos, devemos sempre aplicar ao máximo as boas práticas de programação para que atendam o mínimo dos requisitos </br>
-de responsividade e acessibilidade.
+Sabendo esse conceito, devemos sempre aplicar ao máximo as boas práticas de programação para que atendam o mínimo dos requisitos </br>
+de acessibilidade.
 
 Uma dica de acessibilidade é utilizar a classe "sr-only" (ou, screen only).  
 ```

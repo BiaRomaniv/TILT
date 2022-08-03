@@ -33,6 +33,7 @@ Este conhecimento foi adquirido durante o Bootcamp Ignite da Rocketseat https://
  ---
  
  Com essa aplicação padrão que foi criada, já podemos ter uma idéia dos conceitos do React e componentes.
+![image](https://user-images.githubusercontent.com/66280875/182729827-18a2706e-c412-4872-9c3d-b699ab478751.png)
  
  ---
  

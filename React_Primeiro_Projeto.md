@@ -25,7 +25,7 @@ Este conhecimento foi adquirido durante o Bootcamp Ignite da Rocketseat https://
   
   * npm run dev
 
-  A partir deste último comando, a aplicação React+Vite já estará rodando na porta 3000.
+  A partir deste último comando, a aplicação React+Vite já estará rodando na porta disponível.
   
   Uma das vantagens do uso do Vite, é o fast refresh. Significa que as alterações feitas durante o desenvolvimento, são
  automaticamente espelhadas no browser de maneira rápida, sem necessidade de atualizar a página.
